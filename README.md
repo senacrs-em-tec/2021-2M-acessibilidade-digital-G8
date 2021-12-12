@@ -1,1 +1,5 @@
-# 2021-2M-acessibilidade-ditigal-G8
+# 2021-2M-acessibilidade-digital-G8
+
+- Caetano
+- Rodrigo
+- Riann
